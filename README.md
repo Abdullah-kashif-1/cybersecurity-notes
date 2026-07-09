@@ -29,3 +29,6 @@ To build strong fundamentals in cybersecurity and become job-ready.
 💡 *Learning in public — one step at a time.*
 
 ⭐ Feel free to explore and learn with me!
+
+🔗 Follow my journey on LinkedIn: 
+https://www.linkedin.com/in/abdullah-kashif-729325398/
