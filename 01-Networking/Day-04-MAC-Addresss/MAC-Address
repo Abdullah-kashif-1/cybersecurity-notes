@@ -1,0 +1,38 @@
+📌 Topic: MAC Address
+**🔹 What is a MAC Address?**
+---
+A MAC (Media Access Control) Address is a unique identifier assigned to a network interface card (NIC) of a device.
+---
+🔹 Key Features
+Unique for every device
+Assigned by manufacturer
+Works on Data Link Layer (Layer 2)
+Used in local network (LAN)
+---
+🔹 Format of MAC Address
+
+Example:
+
+00:1A:2B:3C:4D:5E
+6 pairs of hexadecimal numbers
+Separated by colons (:) or hyphens (-)
+🔹 Types of MAC Address
+Unicast → One-to-one communication
+Broadcast → Sent to all devices
+Multicast → Sent to group of devices
+🔹 Why MAC Address is Important?
+Identifies devices in a network
+Helps in communication within LAN
+Used in network security & filtering
+🔹 Basic Command (Check MAC Address)
+
+Windows:
+
+getmac
+
+Linux:
+
+ifconfig
+🔹 Summary
+
+MAC Address is a hardware-based unique ID that helps devices communicate inside a local network
