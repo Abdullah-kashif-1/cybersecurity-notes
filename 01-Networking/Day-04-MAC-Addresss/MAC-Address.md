@@ -15,3 +15,42 @@ A **MAC (Media Access Control) Address** is a **unique identifier** assigned to 
 
 ## 🔹 Format of MAC Address
 Example:
+
+00:1A:2B:3C:4D:5E
+
+
+- 6 pairs of hexadecimal numbers  
+- Separated by colons (:) or hyphens (-)  
+
+---
+
+## 🔹 Types of MAC Address
+- **Unicast** → One-to-one communication  
+- **Broadcast** → Sent to all devices  
+- **Multicast** → Group communication  
+
+---
+
+## 🔹 Why MAC Address is Important?
+- Identifies devices in a network  
+- Helps in LAN communication  
+- Used in security & filtering  
+
+---
+
+## 🔹 Commands
+
+**Windows:**
+
+getmac
+
+
+**Linux:**
+
+ifconfig
+
+
+---
+
+## 🔹 Summary
+MAC Address is a **hardware-based unique ID** used for communication in local networks.
